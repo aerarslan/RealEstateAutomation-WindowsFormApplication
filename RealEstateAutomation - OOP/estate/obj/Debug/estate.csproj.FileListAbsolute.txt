@@ -1,0 +1,20 @@
+C:\Users\MONSTER\Desktop\deneme emlak\estate\bin\Debug\estate.exe.config
+C:\Users\MONSTER\Desktop\deneme emlak\estate\bin\Debug\estate.exe
+C:\Users\MONSTER\Desktop\deneme emlak\estate\bin\Debug\estate.pdb
+C:\Users\MONSTER\Desktop\deneme emlak\estate\obj\Debug\estate.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\deneme emlak\estate\obj\Debug\estate.Form1.resources
+C:\Users\MONSTER\Desktop\deneme emlak\estate\obj\Debug\estate.Kayit.resources
+C:\Users\MONSTER\Desktop\deneme emlak\estate\obj\Debug\estate.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\deneme emlak\estate\obj\Debug\estate.csproj.GenerateResource.Cache
+C:\Users\MONSTER\Desktop\deneme emlak\estate\obj\Debug\estate.exe
+C:\Users\MONSTER\Desktop\deneme emlak\estate\obj\Debug\estate.pdb
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\bin\Debug\estate.exe.config
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\obj\Debug\estate.exe
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\obj\Debug\estate.pdb
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\obj\Debug\estate.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\obj\Debug\estate.Form1.resources
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\obj\Debug\estate.Kayit.resources
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\obj\Debug\estate.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\obj\Debug\estate.csproj.GenerateResource.Cache
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\bin\Debug\estate.exe
+C:\Users\MONSTER\Desktop\Desktop\deneme emlak\deneme emlak\estate\bin\Debug\estate.pdb
