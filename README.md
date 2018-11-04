@@ -15,15 +15,21 @@ To use database, project's database must be added to clients sql server. There i
   * Price, For Rent/Sale, Apartment/House/Land/Building, Square Meters, Living Room Count, Room Count, Balcony Count, Apartment Count in the building, etc.
 * The User can delete an estate from the system by using estate ID, Seller Name, Price, Square Meter.
 
-##How Does The Project Look Like?
+## How Does The Project Look Like?
 
 ![menu](https://user-images.githubusercontent.com/42182119/47970372-8d4a3600-e095-11e8-8e70-5e52f351c134.jpg)
+
+
 
 
 ![estate1](https://user-images.githubusercontent.com/42182119/47970376-91765380-e095-11e8-89ca-5067b0665c04.jpg)
 
 
+
+
 ![estate2](https://user-images.githubusercontent.com/42182119/47970377-94714400-e095-11e8-9d7a-adcee99b6f30.jpg)
+
+
 
 
 ![estate 3](https://user-images.githubusercontent.com/42182119/47970380-963b0780-e095-11e8-94ee-119c97cc7fe5.jpg)
