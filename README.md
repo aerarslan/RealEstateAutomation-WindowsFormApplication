@@ -2,8 +2,11 @@
 
 ## Notice
 In this repository there are 2 different project. 
+
 Both of them are real estate automation. One of them is based on MSSQL database and the other one is based on Object-Oriented Programming.
 Object-Orinted one developed in 2015. After learning some basics about SQL I wanted to develop the same project with MSSQL Server(2018).  
+
+### Important
 
 To use database, project's database must be added to clients sql server. There is a guide on how to add the project's database to the sql server. It is in the RealEstateAutomation - MSSQL Database/Database/  folder.
 
